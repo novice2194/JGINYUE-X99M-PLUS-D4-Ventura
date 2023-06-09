@@ -5,8 +5,5 @@
     flash vbios: RX 570 8G 
 - 32g (16*2 2666MHZ)
 - 1T (GT 34)
-- Not WIFI and Bluetooth
-
- # Not Working
-- ALC 897 input (output is ok)
+- Haven't WIFI and Bluetooth
  
